@@ -180,8 +180,11 @@ Só que melhor, é extensível de um jeito que você não fica preso a ele, até
 
 Ele é o que se chama de agente harness, só que uma que pode se construir, por boas decisões de arquitetura.
 
-E arquitetura é algo que se você for experto tu replica numa linguagem melhor e ta sossegado.
-Você prefere python, que seja.
+E arquitetura é algo que se você se ligar tu replica em uma linguagem melhor e ta sossegado.
+Se você prefere python, que seja.
+Vai cada um fazer bootstrap de alguma coisa parecida, e ai tu tem o teu próprio agente de codificação, o teu próprio framework de agentes, o teu próprio sistema operacional de agentes, o teu próprio kernel de agentes, o teu próprio software livre de agentes.
+
+Eu comecei a fazer algumas coisas em golang, os blocos, mas o pi já entregou a receita e agora eu já to portando para rust em outro projeto.
 
 Todas as linguagens tem como tu fazer algum tipo de REPL.
 > Explicar REPL rapidamente para não entrar em assuntos do workshop.
@@ -194,3 +197,14 @@ Realmente existia, mas não ta escalando bem e o próprio fundado do n8n sabe di
 > Nesse ponto talvez eu já tenha falado de como o Pi foi para a <https://earendil.com/>.
 
 Então temos a earendil como o projeto GNU e o Pi como o seu primeiro kernel como o Linux.
+
+## Extras
+
+> OpenClaw se tornou tão popular quando outros projeto de software, hoje com mais estrelar que o kernel do linux.
+> O Pi ainda esta sendo popularizado massivamente, muita gente ainda não perceber a blueprint que ele é.
+> Cada um pode fazer sua curadoria de extensões Pi e ter a sua distro agêntica.
+> As regras do processo de desenvolvimento de software ainda estão em vigor, o que mudou foi a velocidade e a facilidade de prototipagem.
+> Clean code, design patterns, arquitetura de software, tudo isso ainda é necessário, só que agora a gente tem um monte de ferramentas para ajudar a gente a seguir essas regras e não ter que ficar inventando a roda toda hora.
+> O futuro do software é o software agêntico, o software que se modifica e se adapta para o que a gente precisa, e isso é algo que a gente já tem hoje, só que ainda ta engatinhando, mas a tendência é que isso se torne cada vez mais comum e acessível para todo mundo.
+> Eu não comentei aqui nada sobre saúde mental, geopolítica, economia, etc, mas é claro que tudo isso vai ser impactado por essas mudanças tecnológicas, e a gente precisa estar preparado para lidar com isso de forma consciente e responsável.
+> O Armin inclusive fez uma extensão do pi que fica te avisando se você tiver de prompt em prompt de madrugada, para cuidar da saúde mental dos usuários, e isso é algo que a gente precisa pensar cada vez mais, porque a tecnologia tem um impacto enorme na nossa vida, e a gente precisa usar ela de forma consciente e responsável.

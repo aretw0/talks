@@ -192,3 +192,5 @@ Ah Arthur mas já existia n8n e outras coisas.
 Realmente existia, mas não ta escalando bem e o próprio fundado do n8n sabe disso porque olha só a galera que ta apoiando a nova empreitada do Armin (Flask)
 > Colocar imagem do <https://earendil.com/> empresa do Armin e o texto dos apoiadores deles.
 > Nesse ponto talvez eu já tenha falado de como o Pi foi para a <https://earendil.com/>.
+
+Então temos a earendil como o projeto GNU e o Pi como o seu primeiro kernel como o Linux.

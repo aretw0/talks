@@ -16,6 +16,11 @@ Especialista em Testes de Software pela UFPE.
 Pau pra toda obra.
 Já completei minhas 10000 horas na área.
 
+Talvez me conheçam pelo "UFERSA Vai de Bike" que chegou a ser meu TCC no final da graduação.
+Hoje trabalho no SERPRO, o serviço federal de processamento de dados, onde atuo como engenheiro de software e faço parte de uma divisão que atende a receita federal em questão de direito creditório.
+
+Moro em Recife há uns 6 anos, estou saindo mais da caverna recentemente para poder espalhar essa palavra que é a engenharia agêntica, o software agêntico, o open claw e tudo mais que tem a ver com isso.
+
 ## Primeiras impressões do título
 
 > Haha que futuro? Estamos rimando com o passado, essa onda de IA só não baixou ainda.
@@ -148,7 +153,7 @@ A mesma conclusão que Richard stallman teve quando percebeu que ele ia ficar co
 
 A gente precisa de software livre, a gente precisa de um kernel, a gente precisa de um motor.
 
-O OpenClaw seria a distro mais famosa desse motor que saiu. Assunto do workshop que eu vou ministrar também hoje.
+O OpenClaw seria a distro mais famosa desse motor que saiu.
 
 Não é só um assistente pessoal, é um framework de agentes e é claro que começa por um agente de codificação.
 É dele que surge todos os outros.
@@ -161,7 +166,8 @@ E acho que agora podemos chegar em 2025, estávamos fervendo de possibilidades.
 
 - Modelos começaram a ficar bons em gerar chamadas de tools, operando melhor o harness dela e consequentemente melhores resultados.
 - Foi a era do catnip, ninguém dormia mais experimentando tudo.
-- Eu vou ter um slide só de lições sobre jardinagem digital para cultivo com drones.
+
+> Eu vou ter um slide só de lições sobre jardinagem digital para cultivo com drones.
 
 E ai tivemos outra situação Richard stalmman das idéias, aparentemente, porque eu so fui descobrir isso tudo quando o open claw chegou para mim e ai fui ler os sites estáticos das pessoas envolvidas:
 
@@ -200,11 +206,13 @@ Então temos a earendil como o projeto GNU e o Pi como o seu primeiro kernel com
 
 ## Extras
 
-> OpenClaw se tornou tão popular quando outros projeto de software, hoje com mais estrelar que o kernel do linux.
-> O Pi ainda esta sendo popularizado massivamente, muita gente ainda não perceber a blueprint que ele é.
+> OpenClaw se tornou tão popular quando outros projeto de software, hoje com mais estrelas que o kernel do linux.
+> O Pi ainda esta sendo popularizado massivamente, muita gente ainda não percebeu a blueprint que ele é.
 > Cada um pode fazer sua curadoria de extensões Pi e ter a sua distro agêntica.
 > As regras do processo de desenvolvimento de software ainda estão em vigor, o que mudou foi a velocidade e a facilidade de prototipagem.
 > Clean code, design patterns, arquitetura de software, tudo isso ainda é necessário, só que agora a gente tem um monte de ferramentas para ajudar a gente a seguir essas regras e não ter que ficar inventando a roda toda hora.
-> O futuro do software é o software agêntico, o software que se modifica e se adapta para o que a gente precisa, e isso é algo que a gente já tem hoje, só que ainda ta engatinhando, mas a tendência é que isso se torne cada vez mais comum e acessível para todo mundo.
+> O futuro do software é o software agêntico, o software que se modifica e se adapta para o que a gente precisa, e isso é algo que a gente já tem hoje, só que ainda ta engatinhando, mas a tendência é que isso se torne cada vez mais comum e acessível para todo mundo. Ainda mais se depender de mim haha.
 > Eu não comentei aqui nada sobre saúde mental, geopolítica, economia, etc, mas é claro que tudo isso vai ser impactado por essas mudanças tecnológicas, e a gente precisa estar preparado para lidar com isso de forma consciente e responsável.
 > O Armin inclusive fez uma extensão do pi que fica te avisando se você tiver de prompt em prompt de madrugada, para cuidar da saúde mental dos usuários, e isso é algo que a gente precisa pensar cada vez mais, porque a tecnologia tem um impacto enorme na nossa vida, e a gente precisa usar ela de forma consciente e responsável.
+> De toda forma, é hora de lock in, porque o futuro do software é o software agêntico, e a gente tem que estar preparado para isso, seja aprendendo a usar essas ferramentas, seja contribuindo para o desenvolvimento delas, seja criando as nossas próprias soluções agênticas, o importante é não ficar para trás nessa revolução tecnológica que ta acontecendo.
+> Por onde começar: entender jardinagem digital, second brain, zettelkasten, etc, para criar a sua própria arca de noé digital, para começar a experimentar com essas ferramentas e ver o que você consegue criar com elas. E claro, sempre estar aberto para aprender e se adaptar, porque o futuro do software é algo que a gente ainda não sabe exatamente como vai ser, mas que com certeza vai ser muito diferente do que a gente tem hoje e ter um ambiente seu onde você possa experimentar e aprender é algo que vai ser fundamental para se adaptar a essas mudanças. Sempre foi, agora é mais do que nunca.

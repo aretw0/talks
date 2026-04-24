@@ -1,6 +1,7 @@
 # Engenharia agêntica, open claw e o futuro do software
 
-> Rascunho de Palestra para o evento FLISOL 2026 Mossoró
+> Rascunho de Palestra/workshop para o evento FLISOL 2026 Mossoró
+> 1h30min (metade de palestra, metade de workshop)
 > FLISOL: Festival Latino Americano de Instalação de Software Livre
 > Acontece anualmente, em uma determinada semana vários acontecem em toda a américa latina.
 > Em Mossoró costuma ter, eu mesmo lembro de ter visitado rapidamente um desses enquanto estava na graduação de ciência da Computação.
@@ -193,7 +194,7 @@ Vai cada um fazer bootstrap de alguma coisa parecida, e ai tu tem o teu próprio
 Eu comecei a fazer algumas coisas em golang, os blocos, mas o pi já entregou a receita e agora eu já to portando para rust em outro projeto.
 
 Todas as linguagens tem como tu fazer algum tipo de REPL.
-> Explicar REPL rapidamente para não entrar em assuntos do workshop.
+> Explicar REPL.
 
 Então não importa a jornada, o software agora pode se modificar no caminho para o que você precisar e essas modificações serem com o tempo fortalecidas ao ponto de serem determinísticas e não precisar de nenhum classificador de llm no meio do processo e se precisar que seja um llm que esteja rodando na sua casa ou algo do tipo.
 

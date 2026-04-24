@@ -24,7 +24,7 @@ Moro em Recife há uns 6 anos, estou saindo mais da caverna recentemente para po
 ## Primeiras impressões do título
 
 > Haha que futuro? Estamos rimando com o passado, essa onda de IA só não baixou ainda.
-> Existem termos mais abrangentes como o cibernético, gosto da história de como o chile tentou ter seu sistema mas foi sabotado pela golpe militar. Colocar o link do vídeo e possível visão do painel de controle do chile, a sala que parecia nave espacial.
+> Existem termos mais abrangentes como o cibernético, gosto da história de como o chile tentou ter seu sistema mas foi sabotado pela golpe militar. Colocar o link do vídeo e possível visão do painel de controle do chile, a sala que parecia nave espacial: <https://www.youtube.com/watch?v=mayoL3XbKwA> (cybersin.png)
 > Para depois vermos empresas como a Amazon serem as representantes do estado da arte da coordenação digital de recursos.
 > Eles não deixaram a gente evoluir os nossos sistemas, e quem perguntar quem são eles... cara, sinto muito você não esta pronto.
 > Pergunto quem são eles, eu já assumo que você não esta pronto ainda e não vai ser nessa palestra que eu vou trazer essa visão pra tu.

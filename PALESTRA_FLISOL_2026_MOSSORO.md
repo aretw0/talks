@@ -70,7 +70,7 @@ Eu diria que tudo começa com turing né, a idéia da fita ainda é presente, o 
 
 E a gente tem o teste de turing que hoje em dia eu acho que virou piada, porque muita gente conversa com bot achando que é humano e ok né, queremos agilidade nas nossas vidas, mas quando não temos controle já era também, se me permite a digressão rápida ao que vivemos atualmente.
 
-A experiência agêntica LISA é também bastante lembrada.
+A experiência agêntica ELIZA é também bastante lembrada.
 > Posso adicionar mais sobre ela aqui
 
 A questão é que os sistemas experts são tão antigos quanto a própria computação.

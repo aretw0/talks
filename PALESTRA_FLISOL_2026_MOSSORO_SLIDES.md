@@ -363,15 +363,17 @@ graph LR
 
 #### Resumo da palestra
 
-```mermaid
-graph LR
-    A[Turing → fita] --> B[Sistemas experts]
-    B --> C[PLN + grep]
-    C --> D[Transformers + LLMs]
-    D --> E[Tool use + agentes]
-    E --> F[OpenClaw + Pi]
-    F --> G[Sua distro agêntica]
-```
+1 · Turing → a fita ainda existe
+
+2 · Experts · PLN → padrões na linguagem
+
+3 · LLMs → pesos generalizados
+
+4 · Tool use → ação no mundo
+
+5 · Pi → o kernel livre
+
+6 · **Sua distro agêntica**
 
 ---
 
